@@ -6,3 +6,6 @@ Games are an area that have been heavily influence by developments in AI and ML.
 # Doom
 
 Doom was the game that got me thinking about PCs, not computers as such as had been a Vic20 through to Amiga 512 geek with some spectrum thrown in
+
+
+<img width="620" height="470" alt="flower" src="https://github.com/user-attachments/assets/cceea5a7-7a1a-434c-a601-6ec50753d682" />
